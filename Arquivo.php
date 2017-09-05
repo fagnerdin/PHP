@@ -1,5 +1,8 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
-// codeigniter
+/** SALVA ARQUIVO
+ * @todo Salva arquivo de dados
+ * @uses JqueryCall.js
+ */
 class Arquivo extends CI_Controller {
     
     /** SALVA ARQUIVO DE DADOS */
